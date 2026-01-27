@@ -28,7 +28,7 @@ function Contact() {
 	return (
 		<section id="contacto" className="section">
 			<h2>CONTACTO</h2>
-      <p>Crees que podemos trabajar juntos? Contáctame y coordinemos una llamada.</p>
+      <p>¿Crees que podemos trabajar juntos? Contáctame y coordinemos una llamada.</p>
       <div className="contact-methods">
         {contactMethods.map((method, index) => {
           const Icon = method.icon
