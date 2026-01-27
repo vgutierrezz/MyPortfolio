@@ -80,3 +80,4 @@ Mis pilares para entregar software que perdura:
 ---
 
 ## 📫 Conectemos
+gutierrezvalentina14@gmail.com
