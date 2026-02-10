@@ -26,7 +26,7 @@ function Hero() {
         </a>
       </div>
       <p className="lede">
-        Desarrolladora Full Stack con 3 años de experiencia en CONAE. 
+        Desarrolladora Full Stack con +3 años de experiencia en CONAE. 
         Trabajando en integración de APIs, optimización de
         aplicaciones y gestión de datos. Motivada por el aprendizaje continuo y orientada a
         resultados, con enfoque en soluciones eficientes y trabajo con equipos multidiciplinarios.
