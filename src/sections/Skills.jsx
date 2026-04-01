@@ -4,12 +4,12 @@ function Skills() {
       <h2>STACK TECNOLÓGICO</h2>
       <div className="skills-grid">
         <div className="skill-category">
-          <h3>Frontend</h3>
-          <p>React · Angular · JavaScript · TypeScript · Bootstrap · CSS · Componentes reutilizables</p>
-        </div>
-        <div className="skill-category">
           <h3>Backend</h3>
           <p>APIs REST · Python · Java · Spring Framework · JPA · Hibernate · Maven</p>
+        </div>
+        <div className="skill-category">
+          <h3>Frontend</h3>
+          <p>React · Angular · JavaScript · TypeScript · Bootstrap · CSS · Componentes reutilizables</p>
         </div>
         <div className="skill-category">
           <h3>Bases de datos</h3>

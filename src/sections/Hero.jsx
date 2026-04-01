@@ -26,11 +26,7 @@ function Hero() {
         </a>
       </div>
       <p className="lede">
-        Desarrolladora Full Stack con +3 años de experiencia en CONAE. 
-        Trabajando en integración de APIs, optimización de
-        aplicaciones y gestión de datos. Motivada por el aprendizaje continuo y orientada a
-        resultados, con enfoque en soluciones eficientes y trabajo con equipos multidiciplinarios.
-
+        Desarrolladora Backend Java en BYMA, enfocada en el desarrollo, integración y optimización de soluciones tecnológicas para el sector financiero. Anteriormente, desempeñé durante 3 años y medio el rol de desarrolladora Full Stack en CONAE, lo que me permitió adquirir una visión integral del ciclo de vida del software. Apasionada por el aprendizaje continuo, la innovación y el trabajo colaborativo en equipos multidisciplinarios.
       </p>
 
 

@@ -30,7 +30,14 @@ function Projects() {
       period: '2025',
       technologies: ['Introduction to Responsible AI','Introduction to LLM', 'Introduction to Vertex AI Studio', 'Introduction to Responsible AI'],
       certificateUrl: 'https://www.skills.google/public_profiles/7c4296f8-f2bc-430b-980e-1a70d11327da'
-    }
+    },
+      {
+          title: 'Finanzas Básicas',
+          institution: 'BYMA Educa',
+          period: 'Marzo 2026',
+          technologies: ['Estrategias de ahorro e inversión', 'Dinámica de las tasas de interés y su impacto en el valor del dinero', 'Marco normativo de impuestos aplicados a las inversiones'],
+          certificateUrl: 'https://www.bymaeduca.com.ar/certificates/4ovpz37kv6'
+      }
   ]
 
   return (

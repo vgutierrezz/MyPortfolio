@@ -2,14 +2,13 @@
 
 ### Software Developer | Backend Specialist | Java & Spring 
 
-Desarrolladora con **3 años de experiencia en CONAE**, enfocado en construir sistemas robustos, escalables y eficientes. Mi enfoque combina la solidez del backend con la agilidad de las nuevas tecnologías de automatización e IA.
+Desarrolladora con **+3 años de experiencia**, enfocado en construir sistemas robustos, escalables y eficientes. Mi enfoque combina la solidez del backend con la agilidad de las nuevas tecnologías de automatización e IA.
 
 ```javascript
 const perfil = {
-  rol: "Software Developer",
-  experiencia: "3 años (CONAE)",
-  especialidad: "Full Stack",
-  actualmente_aprendiendo: ["Go (Golang)", "AI Integration", "n8n"],
+  rol: "Desarrolladora Backend Java Ssr",
+  experiencia: "+3 años",
+  especialidad: "Backend Java con Spring Boot",
   formacion: ["Professional Developer - Digital House", "Backend Specialization"],
   ubicacion: "Argentina"
 };
@@ -17,7 +16,7 @@ const perfil = {
 ---
 ## 🎯 Mi Enfoque: Entender para Construir
 
-Tras 3 años desarrollando soluciones de punta a punta (End-to-End), he aprendido que el código es el paso final de un proceso exitoso. Mi valor reside en entender el **"para qué"** antes de decidir el **"cómo"**.
+Tras +3 años desarrollando soluciones de punta a punta (End-to-End), he aprendido que el código es el paso final de un proceso exitoso. Mi valor reside en entender el **"para qué"** antes de decidir el **"cómo"**.
 
 Mis pilares para entregar software que perdura:
 * **Análisis Crítico:** Escuchar al usuario para identificar necesidades reales, no solo requerimientos técnicos.

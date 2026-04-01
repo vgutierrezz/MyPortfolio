@@ -1,9 +1,17 @@
-function Experince() {
+function Experience() {
   const experiences = [
     {
-      title: 'Software Developer',
+      title: 'Developer Java Ssr',
+      company: 'BYMA - Bolsas y Mercados Argentinos S.A',
+      period: 'Marzo 2026 - Actualidad',
+      highlights: [
+        'Vertical de Custodia'
+      ]
+    },
+    {
+      title: 'Software Developer Full Stack Ssr',
       company: 'VENG para CONAE',
-      period: 'Octubre 2022 - Actualidad',
+      period: 'Octubre 2022 - Febrero 2026 (3.5 años)',
       highlights: [
         'Liderazgo del ciclo completo de flujos automatizados de imágenes y datos',
         'Optimización de bases de datos PostgreSQL para garantizar integridad y disponibilidad',
@@ -57,4 +65,4 @@ function Experince() {
 	)
 }
 
-export default Experince
+export default Experience
