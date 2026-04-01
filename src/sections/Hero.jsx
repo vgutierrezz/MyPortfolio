@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section id="inicio" className="section">
       <h1>Valentina Gutierrez</h1>
-      <h3 className="hero-position" >Software Developer Full Stack</h3>
+      <h3 className="hero-position" >Backend Developer Java Ssr/h3>
       <div className="hero-socials" aria-label="Redes sociales">
         <a
           href="https://www.linkedin.com/in/valentina-gutierrez-a6b060207/"
@@ -26,7 +26,9 @@ function Hero() {
         </a>
       </div>
       <p className="lede">
-        Desarrolladora Backend Java en BYMA, enfocada en el desarrollo, integración y optimización de soluciones tecnológicas para el sector financiero. Anteriormente, desempeñé durante 3 años y medio el rol de desarrolladora Full Stack en CONAE, lo que me permitió adquirir una visión integral del ciclo de vida del software. Apasionada por el aprendizaje continuo, la innovación y el trabajo colaborativo en equipos multidisciplinarios.
+          Desarrolladora Backend Java en BYMA, enfocada en el desarrollo, integración y optimización de soluciones tecnológicas para el sector financiero.<br />
+          Anteriormente, desempeñé durante 3 años y medio el rol de desarrolladora Full Stack en CONAE, lo que me permitió adquirir una visión integral del ciclo de vida del software.<br />
+          Apasionada por el aprendizaje continuo, la innovación y el trabajo colaborativo en equipos multidisciplinarios.
       </p>
 
 

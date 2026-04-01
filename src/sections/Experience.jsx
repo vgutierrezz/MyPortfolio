@@ -1,7 +1,7 @@
 function Experience() {
   const experiences = [
     {
-      title: 'Developer Java Ssr',
+      title: 'Backend Developer Java Ssr',
       company: 'BYMA - Bolsas y Mercados Argentinos S.A',
       period: 'Marzo 2026 - Actualidad',
       highlights: [
@@ -11,7 +11,7 @@ function Experience() {
     {
       title: 'Software Developer Full Stack Ssr',
       company: 'VENG para CONAE',
-      period: 'Octubre 2022 - Febrero 2026 (3.5 años)',
+      period: 'Octubre 2022 - Febrero 2026',
       highlights: [
         'Liderazgo del ciclo completo de flujos automatizados de imágenes y datos',
         'Optimización de bases de datos PostgreSQL para garantizar integridad y disponibilidad',
