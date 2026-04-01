@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section id="inicio" className="section">
       <h1>Valentina Gutierrez</h1>
-      <h3 className="hero-position" >Backend Developer Java Ssr/h3>
+      <h3 className="hero-position" >Backend Developer Java Ssr</h3>
       <div className="hero-socials" aria-label="Redes sociales">
         <a
           href="https://www.linkedin.com/in/valentina-gutierrez-a6b060207/"
